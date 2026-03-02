@@ -23,9 +23,13 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"workbench.colorTheme": "Default Dark Modern",
+				"workbench.colorTheme": "Tokyo Night",
 				"ty.configurationFile": "./.config/ty.toml"
-			}
+			},
+			"extensions": [
+				"ms-toolsai.jupyter", 
+				"enkia.tokyo-night"
+			]
 		}
 	}
 
